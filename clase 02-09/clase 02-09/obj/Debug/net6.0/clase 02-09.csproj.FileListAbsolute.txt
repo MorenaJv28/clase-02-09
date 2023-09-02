@@ -1,0 +1,15 @@
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\bin\Debug\net6.0\clase 02-09.exe
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\bin\Debug\net6.0\clase 02-09.deps.json
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\bin\Debug\net6.0\clase 02-09.runtimeconfig.json
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\bin\Debug\net6.0\clase 02-09.dll
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\bin\Debug\net6.0\clase 02-09.pdb
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\obj\Debug\net6.0\clase 02-09.csproj.AssemblyReference.cache
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\obj\Debug\net6.0\clase 02-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\obj\Debug\net6.0\clase 02-09.AssemblyInfoInputs.cache
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\obj\Debug\net6.0\clase 02-09.AssemblyInfo.cs
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\obj\Debug\net6.0\clase 02-09.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\obj\Debug\net6.0\clase 02-09.dll
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\obj\Debug\net6.0\refint\clase 02-09.dll
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\obj\Debug\net6.0\clase 02-09.pdb
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\obj\Debug\net6.0\clase 02-09.genruntimeconfig.cache
+C:\Users\ALUMNO.CC1PC16-17\Desktop\clase de progra\clase 02-09\clase 02-09\obj\Debug\net6.0\ref\clase 02-09.dll
